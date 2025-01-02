@@ -154,7 +154,7 @@ a:hover,
 }
 /* [ 1.1.4 Heading ] */
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'gadimon', Arial, sans-serif;
+	font-family: 'gadimon';
 	color: #3f3f3f;
 	line-height: 1.4;
 	font-weight: 500;
